@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swagata</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff</h3>
+<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostwelcome" alt="mostwelcome" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostwelcome" alt="mostwelcome" /></a> </p>
 
 - 🔭 I’m currently working on **Persistent Systems ltd**
 
