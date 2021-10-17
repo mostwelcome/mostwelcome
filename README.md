@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostwelcome" alt="mostwelcome" /></a> </p>
 
-- 🔭 I’m currently working on **Persistent Systems ltd**
+                                      - 🔭 I’m currently working on **Persistent Systems ltd**
 
-- 🌱 I’m currently learning **Python, Flask, Django, mongodb**
+                                      - 🌱 I’m currently learning **Python, Flask, Django, mongodb**
 
-- 💬 Ask me about **JAVA,python**
+                                      - 💬 Ask me about **JAVA,python**
 
-- 📫 How to reach me **duttaswagata4082018@gmail.com**
+                                      - 📫 How to reach me **duttaswagata4082018@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
