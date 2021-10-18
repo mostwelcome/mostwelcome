@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swagata</h1>
 <h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
 
-- 🔭 I’m currently working on **Persistent Systems ltd**
+- 🔭 I’m currently working on **Persistent Systems Ltd.**
 
 - 🌱 I’m currently learning **Python, Flask, Django, mongodb**
 
