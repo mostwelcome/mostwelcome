@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Flask, Django, mongodb**
 
-- 💬 Ask me about **JAVA,python**
+- 💬 Ask me about **JAVA, Python**
 
 - 📫 How to reach me **duttaswagata4082018@gmail.com**
 
