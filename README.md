@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Persistent Systems Ltd.**
 
-- 🌱 I’m currently learning **Python, Flask, Django, Mongodb**
+- 🌱 I’m currently learning **Python, Flask, Django**
 
 - 💬 Ask me about **JAVA, Python**
 
